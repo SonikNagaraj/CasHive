@@ -1,0 +1,2 @@
+# CasHive
+CasHive,is a Java web application developed based on the requirements received from Virtusa Corporation.The objective of the application is to enable the bank to calculate the running balance of every account holders and automatically intimate the respective account holders.It also extends it feature to provide an user-friendly functionalities for searching and downloading in various file formats.It ensures 2 layer security.
